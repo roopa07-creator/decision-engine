@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Decision Engine</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f2f2f2;
+        }
+        .box {
+            width: 350px;
+            margin: 100px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin: 10px 0;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background: green;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h2>Decision Engine 🚀</h2>
+
+    <form method="POST">
+        <input type="number" name="salary" placeholder="Enter Salary">
+
+        <select name="risk">
+            <option value="low">Low Risk</option>
+            <option value="medium">Medium Risk</option>
+            <option value="high">High Risk</option>
+        </select>
+
+        <select name="location">
+            <option value="city">City</option>
+            <option value="rural">Rural</option>
+        </select>
+
+        <button type="submit">Get Decision</button>
+    </form>
+
+    <br>
+    <a href="/logout">Logout</a>
+</div>
+
+</body>
+</html>
