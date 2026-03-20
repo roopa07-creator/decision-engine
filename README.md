@@ -9,9 +9,10 @@ A Flask-based Decision Engine that provides recommendations based on user inputs
 - Postman testing support
 
 ## 📸 Screenshots
-
-### Home Page
+https://github.com/roopa07-creator/decision-engine/blob/main/Login.png
 https://github.com/roopa07-creator/decision-engine/blob/main/home.png
+https://github.com/roopa07-creator/decision-engine/blob/main/result.png
+https://github.com/roopa07-creator/decision-engine/blob/main/SS.png
 
 ### Result Page
 ![Result](screenshots/result.png)
