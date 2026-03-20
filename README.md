@@ -11,7 +11,7 @@ A Flask-based Decision Engine that provides recommendations based on user inputs
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+https://github.com/roopa07-creator/decision-engine/blob/main/home.png
 
 ### Result Page
 ![Result](screenshots/result.png)
